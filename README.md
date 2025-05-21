@@ -55,7 +55,7 @@ This is a **serverless project** built using **Amazon API Gateway**, **AWS Lambd
 ## 📁 Bucket Name
 
 ```
-my-file-uploader-bucket-salman
+my-file-uploader-bucket-Misaq
 ```
 
 ---
